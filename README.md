@@ -25,15 +25,15 @@ Register: <br/>
 <br />
 <br />
 Login:  <br/>
-<https://i.imgur.com/3H9ZsDX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<https://i.imgur.com/3H9ZsDX.png" height="80%" width="80%" alt="Login.png"/>
 <br />
 <br />
 Homepage: <br/>
-<https://i.imgur.com/UQDDQLJ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<https://i.imgur.com/UQDDQLJ.png" height="80%" width="80%" alt="Homepage.png"/>
 <br />
 <br />
 Update User's Profile:  <br/>
-<https://i.imgur.com/er3ZohE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<https://i.imgur.com/er3ZohE.png" height="80%" width="80%" alt="Update User's Profile.png"/>
 <br />
 <br />
 Apply Loan:  <br/>
@@ -60,8 +60,12 @@ Database:  <br/>
 Loan Available :<br/>
 <https://i.imgur.com/noMw2Ju.png" height="80%" width="80%" alt="LoanOffer.png"/><br />
 All Payments Database :<br/>
+<br />
+<br />
 <https://i.imgur.com/Nlh3pZO.png" height="80%" width="80%" alt="LoanOffer.png"/><br />
 User Profile Database :<br/>
+<br />
+<br />
 <https://i.imgur.com/TX0YSyL.png" height="80%" width="80%" alt="LoanOffer.png"/><br />
 </p>
 
