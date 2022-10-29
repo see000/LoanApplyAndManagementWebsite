@@ -25,48 +25,48 @@ Register: <br/>
 <br />
 <br />
 Login:  <br/>
-<https://i.imgur.com/3H9ZsDX.png" height="80%" width="80%" alt="Login.png"/>
+<img src="https://i.imgur.com/3H9ZsDX.png" height="80%" width="80%" alt="Login.png"/>
 <br />
 <br />
 Homepage: <br/>
-<https://i.imgur.com/UQDDQLJ.png" height="80%" width="80%" alt="Homepage.png"/>
+<img src="https://i.imgur.com/UQDDQLJ.png" height="80%" width="80%" alt="Homepage.png"/>
 <br />
 <br />
 Update User's Profile:  <br/>
-<https://i.imgur.com/er3ZohE.png" height="80%" width="80%" alt="Update User's Profile.png"/>
+<img src="https://i.imgur.com/er3ZohE.png" height="80%" width="80%" alt="Update User's Profile.png"/>
 <br />
 <br />
 Apply Loan:  <br/>
-<https://i.imgur.com/F45mCUA.png" height="80%" width="80%" alt="ApplyLoan.png"/>
+<img src="https://i.imgur.com/F45mCUA.png" height="80%" width="80%" alt="ApplyLoan.png"/>
 <br />
 <br />
 Apply Loan Form:  <br/>
-<https://i.imgur.com/aNVewlz.png" height="80%" width="80%" alt="ApplyLoanForm.png"/>
+<img src="https://i.imgur.com/aNVewlz.png" height="80%" width="80%" alt="ApplyLoanForm.png"/>
 <br />
 <br />
 Make Appointment:  <br/>
-<https://i.imgur.com/IC3hFDj.png" height="80%" width="80%" alt="MakeAppointmentForm.png"/>
+<img src="https://i.imgur.com/IC3hFDj.png" height="80%" width="80%" alt="MakeAppointmentForm.png"/>
 <br />
 <br />
 Appointment Details:  <br/>
-<https://i.imgur.com/LeUkGWY.png" height="80%" width="80%" alt="AppointmentDetails.png"/><br />
+<img src="https://i.imgur.com/LeUkGWY.png" height="80%" width="80%" alt="AppointmentDetails.png"/><br />
 <br />
 <br />
 Update Payment:  <br/>
-<https://i.imgur.com/J5nYc4N.png" height="80%" width="80%" alt="UpdatePayment.png"/><br />
+<img src="https://i.imgur.com/J5nYc4N.png" height="80%" width="80%" alt="UpdatePayment.png"/><br />
 <br />
 <br />
 Database:  <br/>
 Loan Available :<br/>
-<https://i.imgur.com/noMw2Ju.png" height="80%" width="80%" alt="LoanOffer.png"/><br />
+<img src="https://i.imgur.com/noMw2Ju.png" height="80%" width="80%" alt="LoanOffer.png"/><br />
 All Payments Database :<br/>
 <br />
 <br />
-<https://i.imgur.com/Nlh3pZO.png" height="80%" width="80%" alt="LoanOffer.png"/><br />
+<img src="https://i.imgur.com/Nlh3pZO.png" height="80%" width="80%" alt="LoanOffer.png"/><br />
 User Profile Database :<br/>
 <br />
 <br />
-<https://i.imgur.com/TX0YSyL.png" height="80%" width="80%" alt="LoanOffer.png"/><br />
+<img src="https://i.imgur.com/TX0YSyL.png" height="80%" width="80%" alt="LoanOffer.png"/><br />
 </p>
 
 <!--
